@@ -15,7 +15,7 @@
 
 </div>
 
-[![Twitter](https://img.shields.io/badge/Follow_@7_dv0-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/7_dv0)  
+[![Twitter](https://img.shields.io/badge/-@7_dv0-20232A?style=flat&logo=x&logoColor=fff)](https://x.com/7_dv0)  
 
 ```bash
 # Daily Toolkit

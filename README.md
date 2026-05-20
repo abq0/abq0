@@ -1,9 +1,9 @@
 <div align="center">
 
-#  AbdulRahman Al-Ghamdi 
-### 🕶️ Penetration Tester | 🌐 Network Security | ⚡ Backend Engineer
+#  AbdulRahman
+### 🕶️ Penetration Tester | 🌐 Network Security | ⚡ Full-stack web developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=OSCP%2B+Certified+%F0%9F%94%A5;eJPT+Certified+%F0%9F%9A%80;Web+Application+Pentester+%F0%9F%92%80;Network+Enumeration+Specialist+%F0%9F%8C%90;Linux+%2B+Laravel+Enjoyer+%F0%9F%90%A7;Still+collecting+certifications...+%F0%9F%98%AD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=OSCP%2B+Certified+%F0%9F%94%A5;Web+Application+Pentester+%F0%9F%92%80;Network+Enumeration+Specialist+%F0%9F%8C%90;Still+collecting+certifications...+%F0%9F%98%AD"/>
 
 </div>
 
@@ -22,7 +22,6 @@ Web Application Pentesting
 Network Security
 Linux Hardening
 Backend Systems
-Exploit Research
 
 > current_status
 Enumerating...
